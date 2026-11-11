@@ -1,0 +1,17 @@
+{
+  "name": "Gimmi Liquid AI",
+  "short_name": "Gimmi AI",
+  "description": "Liquid glass AI chat — voice, vision, image generation. Offline ready.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#030712",
+  "theme_color": "#030712",
+  "lang": "hi-IN",
+  "icons": [
+    { "src": "./icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "./icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "./icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
